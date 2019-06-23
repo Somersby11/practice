@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Source.cpp
+c:\users\lenovo\source\repos\consoleapplication21\consoleapplication21\source.cpp(6): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  c:\users\lenovo\source\repos\consoleapplication21\consoleapplication21\source.cpp(6): note: аргументы командной строки:  см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+c:\users\lenovo\source\repos\consoleapplication21\consoleapplication21\source.cpp(6): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\lenovo\source\repos\consoleapplication21\consoleapplication21\source.cpp(6): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\lenovo\source\repos\consoleapplication21\consoleapplication21\source.cpp(7): note: использование предварительно скомпилированного заголовка
+  ConsoleApplication21.vcxproj -> C:\Users\Lenovo\source\repos\ConsoleApplication21\x64\Debug\ConsoleApplication21.exe
